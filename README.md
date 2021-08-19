@@ -17,7 +17,7 @@
   <li>API</li>
 </ul>
 
-<h2>Clique <a href="https://astromatch-edd.surge.sh/"> aqui <a/>para ver o site do projeto</h2>
+<h2>Clique <a href="https://astromatch-edd.surge.sh/" target="_blank"> aqui <a/>para ver o site do projeto</h2>
 <hr>
 
 <h2>Como baixar o projeto</h2>
